@@ -1,0 +1,266 @@
+
+Scan Time:     2023-10-20 10:48:19
+Target File:   /home/zhang/Desktop/Log4j2/待测文件/tp-link_oc3000/固件/OC300_UN_v1_1.19.3_20230906.zip
+MD5 Checksum:  efd668b7e0e53ad44d46c8f6cc80b687
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Zip archive data, at least v2.0 to extract, compressed size: 199483, uncompressed size: 245715, name: GPL License Terms.pdf
+199534        0x30B6E         Zip archive data, at least v2.0 to extract, compressed size: 97125, uncompressed size: 111335, name: OC300_Release_Note.pdf
+296711        0x48707         Zip archive data, at least v2.0 to extract, compressed size: 1377568, uncompressed size: 1787180, name: Omada Controller Upgrade Guide.pdf
+1674343       0x198C67        Zip archive data, at least v2.0 to extract, compressed size: 237945738, uncompressed size: 244509764, name: OC300v1_un_1.19.3_20230906_rel38429_up.bin
+239620528     0xE4851B0       End of Zip archive, footer length: 22
+
+
+Scan Time:     2023-10-20 10:48:22
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/Omada Controller Upgrade Guide.pdf
+MD5 Checksum:  5f7e660145c5ed51b8ad4955d5b1787f
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PDF document, version: "1.5"
+
+
+Scan Time:     2023-10-20 10:48:23
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/GPL License Terms.pdf
+MD5 Checksum:  e2b42e8f0c0c4f4209723be79644664b
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PDF document, version: "1.4"
+
+
+Scan Time:     2023-10-20 10:48:24
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/OC300v1_un_1.19.3_20230906_rel38429_up.bin
+MD5 Checksum:  ab87a4ff9e6d802199d87ed86dbe0ebb
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+978504        0xEEE48         CRC32 polynomial table, little endian
+979891        0xEF3B3         HTML document header
+992947        0xF26B3         HTML document footer
+993021        0xF26FD         PNG image, 117 x 44, 8-bit/color RGBA, non-interlaced
+1160632       0x11B5B8        Flattened device tree, size: 16552 bytes, version: 17
+1181872       0x1208B0        Flattened device tree, size: 27535 bytes, version: 17
+1209408       0x127440        Linux kernel ARM64 image, load offset: 0x80000, image size: 11055104 bytes, little endian, 4k page size, place kernel close to DRAM base
+1306912       0x13F120        SHA256 hash constants, little endian
+1322320       0x142D50        AES S-Box
+1322576       0x142E50        AES Inverse S-Box
+8766744       0x85C518        gzip compressed data, maximum compression, from Unix, last modified: 1970-01-01 00:00:00 (null date)
+8945232       0x887E50        LZO compressed data
+8947776       0x888840        CRC32 polynomial table, little endian
+9115176       0x8B1628        Copyright string: "Copyright (c) 2007-2014 Intel Corporation."
+9121920       0x8B3080        Copyright string: "Copyright (c) 2009 - 2012 Intel Corporation."
+9122752       0x8B33C0        Copyright string: "Copyright (c) 1999-2015 Intel Corporation."
+9131928       0x8B5798        Copyright string: "Copyright (c) 1999-2008 Intel Corporation."
+9293018       0x8DCCDA        Unix path: /var/run/rpcbind.sock
+9296882       0x8DDBF2        Unix path: /var/run/gssproxy.sock
+10368864      0x9E3760        Unix path: /dev/vc/0
+10408488      0x9ED228        Ubiquiti firmware additional data, name: OMBAT, size: 1936224114 bytes, size2: 1953390957 bytes, CRC32: 0
+10415716      0x9EEE64        Copyright string: "copyright (C) 1996 okir@monad.swb.de)."
+10509728      0xA05DA0        xz compressed data
+10571306      0xA14E2A        Copyright string: "Copyright(c) 1999 - 2015 Intel Corporation."
+10640608      0xA25CE0        Unix path: /lib/firmware/updates/4.4.52
+10726767      0xA3AD6F        Copyright string: "Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>"
+10744841      0xA3F409        Copyright string: "Copyright(c) Pierre Ossman"
+10754296      0xA418F8        Unix path: /sys/firmware/devicetree/base
+10755053      0xA41BED        Unix path: /sys/firmware/fdt': CRC check failed
+10774905      0xA46979        Neighborly text, "neighbor table overflow!ate is %x"
+10794410      0xA4B5AA        Neighborly text, "neighbor %.2x%.2x.%pM lostulticast_fast_leave"
+11410232      0xAE1B38        gzip compressed data, maximum compression, from Unix, last modified: 1970-01-01 00:00:00 (null date)
+11551808      0xB04440        ELF, 64-bit LSB shared object, version 1 (SYSV)
+11789376      0xB3E440        Copyright string: "Copyright (c) 2009 - 2012 Intel Corporation."
+11988032      0xB6EC40        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 232439053 bytes, 2262 inodes, blocksize: 262144 bytes, created: 2023-09-06 02:20:32
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/OC300_Release_Note.pdf
+MD5 Checksum:  5675998856aa49a25496e94fed38ebe2
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PDF document, version: "1.4"
+500           0x1F4           JPEG image data, EXIF standard
+512           0x200           TIFF image data, big-endian, offset of first image directory: 8
+11686         0x2DA6          Copyright string: "Copyright (c) 1998 Hewlett-Packard Company"
+40937         0x9FE9          Zlib compressed data, default compression
+42612         0xA674          Zlib compressed data, default compression
+45604         0xB224          Zlib compressed data, default compression
+49733         0xC245          Zlib compressed data, default compression
+53818         0xD23A          Zlib compressed data, default compression
+56086         0xDB16          Zlib compressed data, default compression
+58474         0xE46A          Zlib compressed data, default compression
+71365         0x116C5         Zlib compressed data, default compression
+71920         0x118F0         Zlib compressed data, default compression
+93228         0x16C2C         Zlib compressed data, default compression
+93850         0x16E9A         Zlib compressed data, default compression
+103963        0x1961B         Zlib compressed data, default compression
+104465        0x19811         Zlib compressed data, default compression
+110074        0x1ADFA         Zlib compressed data, default compression
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300v1_un_1.19.3_20230906_rel38429_up.bin.extracted/85C518
+MD5 Checksum:  81d4fe8b882e9aec3edbc278a2df4a51
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300v1_un_1.19.3_20230906_rel38429_up.bin.extracted/A05DA0
+MD5 Checksum:  c17477da570692eb548c5d02906b2df8
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ASCII cpio archive (SVR4 with no CRC), file name: "dev", file name length: "0x00000004", file size: "0x00000000"
+116           0x74            ASCII cpio archive (SVR4 with no CRC), file name: "dev/console", file name length: "0x0000000C", file size: "0x00000000"
+240           0xF0            ASCII cpio archive (SVR4 with no CRC), file name: "root", file name length: "0x00000005", file size: "0x00000000"
+356           0x164           ASCII cpio archive (SVR4 with no CRC), file name: "TRAILER!!!", file name length: "0x0000000B", file size: "0x00000000"
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300v1_un_1.19.3_20230906_rel38429_up.bin.extracted/AE1B38
+MD5 Checksum:  c17477da570692eb548c5d02906b2df8
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ASCII cpio archive (SVR4 with no CRC), file name: "dev", file name length: "0x00000004", file size: "0x00000000"
+116           0x74            ASCII cpio archive (SVR4 with no CRC), file name: "dev/console", file name length: "0x0000000C", file size: "0x00000000"
+240           0xF0            ASCII cpio archive (SVR4 with no CRC), file name: "root", file name length: "0x00000005", file size: "0x00000000"
+356           0x164           ASCII cpio archive (SVR4 with no CRC), file name: "TRAILER!!!", file name length: "0x0000000B", file size: "0x00000000"
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/9FE9
+MD5 Checksum:  6ba716409a3b7f8a99f29e6ce9aa5372
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/A674
+MD5 Checksum:  0eb7f5be50aa4cfe5b4dc577b342277d
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/B224
+MD5 Checksum:  147b258bce2e7d129e8e575b72ba49e0
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/C245
+MD5 Checksum:  5a8d835b314bfb8805639a9718ee515f
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/D23A
+MD5 Checksum:  205f87d3d2782f10aeff5d7f2b835f7e
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/DB16
+MD5 Checksum:  46bec72b439c7ea269ec1e0e153b85f3
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/E46A
+MD5 Checksum:  cce3c15a6fb689c33b565a1ab5ae3a45
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/116C5
+MD5 Checksum:  fbaa9da11651828a7f55055a8741abb6
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/118F0
+MD5 Checksum:  bc69513974eddae8fbbb13799432906a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/16C2C
+MD5 Checksum:  1c1c46699e0b33d2a0c9e0853ffa45ca
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/16E9A
+MD5 Checksum:  2dd4bc6093d2e7f94f9d6859b11c6294
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/1961B
+MD5 Checksum:  dd96701e3b92047d07e29deb713b1d72
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/19811
+MD5 Checksum:  71e7b090b306765e7a558955c7c4f996
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:48:40
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.19.3_20230906.zip.extracted/_OC300_Release_Note.pdf.extracted/1ADFA
+MD5 Checksum:  195fa901afff405b56b180f6bda1dac1
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+

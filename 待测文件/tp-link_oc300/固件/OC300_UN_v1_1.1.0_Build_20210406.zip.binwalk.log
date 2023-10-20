@@ -1,0 +1,110 @@
+
+Scan Time:     2023-10-20 10:41:58
+Target File:   /home/zhang/Desktop/Log4j2/待测文件/tp-link_oc3000/固件/OC300_UN_v1_1.1.0_Build_20210406.zip
+MD5 Checksum:  5dc208d0daa8e46c9d09b60af02b3c9c
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Zip archive data, at least v2.0 to extract, compressed size: 124794446, uncompressed size: 131279492, name: OC300v1_un_1.1.0_20210406_rel58776_up.bin
+124794517     0x7703695       Zip archive data, at least v2.0 to extract, compressed size: 1374523, uncompressed size: 1787180, name: Omada Controller Upgrade Guide.pdf
+126169104     0x7853010       Zip archive data, at least v2.0 to extract, compressed size: 1699, uncompressed size: 3853, name: release note.txt
+126171186     0x7853832       End of Zip archive, footer length: 22
+
+
+Scan Time:     2023-10-20 10:42:00
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.1.0_Build_20210406.zip.extracted/release note.txt
+MD5 Checksum:  11b4123c4872de36977a351dd29236da
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:42:00
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.1.0_Build_20210406.zip.extracted/OC300v1_un_1.1.0_20210406_rel58776_up.bin
+MD5 Checksum:  78adb7a6446b9c5bb889316e47707387
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+976040        0xEE4A8         CRC32 polynomial table, little endian
+977427        0xEEA13         HTML document header
+990483        0xF1D13         HTML document footer
+990557        0xF1D5D         PNG image, 117 x 44, 8-bit/color RGBA, non-interlaced
+1157680       0x11AA30        Flattened device tree, size: 16552 bytes, version: 17
+1178864       0x11FCF0        Flattened device tree, size: 27535 bytes, version: 17
+1206400       0x126880        Linux kernel ARM64 image, load offset: 0x80000, image size: 11075584 bytes, little endian, 4k page size, place kernel close to DRAM base
+1303904       0x13E560        SHA256 hash constants, little endian
+1319312       0x142190        AES S-Box
+1319568       0x142290        AES Inverse S-Box
+8780120       0x85F958        gzip compressed data, maximum compression, from Unix, last modified: 1970-01-01 00:00:00 (null date)
+8958608       0x88B290        LZO compressed data
+8961152       0x88BC80        CRC32 polynomial table, little endian
+9128576       0x8B4A80        Copyright string: "Copyright (c) 2007-2014 Intel Corporation."
+9135320       0x8B64D8        Copyright string: "Copyright (c) 2009 - 2012 Intel Corporation."
+9136152       0x8B6818        Copyright string: "Copyright (c) 1999-2015 Intel Corporation."
+9145328       0x8B8BF0        Copyright string: "Copyright (c) 1999-2008 Intel Corporation."
+9306394       0x8E011A        Unix path: /var/run/rpcbind.sock
+10383264      0x9E6FA0        Unix path: /dev/vc/0
+10422888      0x9F0A68        Ubiquiti firmware additional data, name: OMBAT, size: 1936224114 bytes, size2: 1953390957 bytes, CRC32: 0
+10430116      0x9F26A4        Copyright string: "copyright (C) 1996 okir@monad.swb.de)."
+10524128      0xA095E0        xz compressed data
+10585866      0xA1870A        Copyright string: "Copyright(c) 1999 - 2015 Intel Corporation."
+10655152      0xA295B0        Unix path: /lib/firmware/updates/4.4.52
+10741295      0xA3E62F        Copyright string: "Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>"
+10759369      0xA42CC9        Copyright string: "Copyright(c) Pierre Ossman"
+10768824      0xA451B8        Unix path: /sys/firmware/devicetree/base
+10769581      0xA454AD        Unix path: /sys/firmware/fdt': CRC check failed
+10789409      0xA4A221        Neighborly text, "neighbor table overflow!ate is %x"
+10808914      0xA4EE52        Neighborly text, "neighbor %.2x%.2x.%pM lostulticast_fast_leave"
+11427704      0xAE5F78        gzip compressed data, maximum compression, from Unix, last modified: 1970-01-01 00:00:00 (null date)
+11565184      0xB07880        ELF, 64-bit LSB shared object, version 1 (SYSV)
+11805344      0xB422A0        Copyright string: "Copyright (c) 2009 - 2012 Intel Corporation."
+12003968      0xB72A80        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 119273766 bytes, 2007 inodes, blocksize: 262144 bytes, created: 2021-04-06 08:00:21
+
+
+Scan Time:     2023-10-20 10:42:12
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.1.0_Build_20210406.zip.extracted/Omada Controller Upgrade Guide.pdf
+MD5 Checksum:  5f7e660145c5ed51b8ad4955d5b1787f
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PDF document, version: "1.5"
+
+
+Scan Time:     2023-10-20 10:42:12
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.1.0_Build_20210406.zip.extracted/_OC300v1_un_1.1.0_20210406_rel58776_up.bin.extracted/85F958
+MD5 Checksum:  f7b0d009d4b28e1e6923cebdc34827e6
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2023-10-20 10:42:12
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.1.0_Build_20210406.zip.extracted/_OC300v1_un_1.1.0_20210406_rel58776_up.bin.extracted/A095E0
+MD5 Checksum:  c0af54bac82c4b93c6209c3afed2682a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ASCII cpio archive (SVR4 with no CRC), file name: "dev", file name length: "0x00000004", file size: "0x00000000"
+116           0x74            ASCII cpio archive (SVR4 with no CRC), file name: "dev/console", file name length: "0x0000000C", file size: "0x00000000"
+240           0xF0            ASCII cpio archive (SVR4 with no CRC), file name: "root", file name length: "0x00000005", file size: "0x00000000"
+356           0x164           ASCII cpio archive (SVR4 with no CRC), file name: "TRAILER!!!", file name length: "0x0000000B", file size: "0x00000000"
+
+
+Scan Time:     2023-10-20 10:42:12
+Target File:   /home/zhang/Desktop/Log4j2/binwalk_result/_OC300_UN_v1_1.1.0_Build_20210406.zip.extracted/_OC300v1_un_1.1.0_20210406_rel58776_up.bin.extracted/AE5F78
+MD5 Checksum:  c0af54bac82c4b93c6209c3afed2682a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ASCII cpio archive (SVR4 with no CRC), file name: "dev", file name length: "0x00000004", file size: "0x00000000"
+116           0x74            ASCII cpio archive (SVR4 with no CRC), file name: "dev/console", file name length: "0x0000000C", file size: "0x00000000"
+240           0xF0            ASCII cpio archive (SVR4 with no CRC), file name: "root", file name length: "0x00000005", file size: "0x00000000"
+356           0x164           ASCII cpio archive (SVR4 with no CRC), file name: "TRAILER!!!", file name length: "0x0000000B", file size: "0x00000000"
+
